@@ -1,0 +1,4 @@
+
+#togumogu api
+BASEURL="https://api.themoviedb.org/3/"
+APIKEY="3b067b4f87d5518511f47ce20fb30a10"
